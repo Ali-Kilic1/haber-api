@@ -1,0 +1,36 @@
+name: Haber Güncelleyici
+
+on:
+  schedule:
+    - cron: '0 */8 * * *'  
+  workflow_dispatch:      
+
+permissions:
+  contents: write        
+
+jobs:
+  guncelleme_isi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Çek (Checkout)
+        uses: actions/checkout@v3
+
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yükle
+        run: pip install -r requirements.txt
+
+      - name: Scripti Çalıştır
+        run: python main.py
+
+      - name: Değişiklikleri Kaydet (Git Push)
+        run: |
+          git config --global user.name 'Haber Botu'
+          git config --global user.email 'bot@noreply.github.com'
+          git add haberler.json
+          git commit -m "Otomatik Güncelleme: $(date)" || exit 0
+          git push
