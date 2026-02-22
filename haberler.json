@@ -1,9 +1,16 @@
 [
     {
+        "baslik": "Berlin Film Festivali'nde Altın Ayı İlker Çatak'ın, Gümüş Ayı Emin Alper'in oldu",
+        "link": "https://www.bbc.com/turkce/articles/cj4znd800rzo?at_medium=RSS&at_campaign=rss",
+        "ozet": "Bu yıl 76'ncısı düzenlenen Berlin Uluslararası Film Festivali, diğer adıyla Berlinale'de İlker Çatak'ın yönettiği Sarı Zarflar, En İyi Film seçilerek Altın Ayı ödülünü aldı. Yönetmen Emin Alper'in Kurtuluş filmi de Gümüş Ayı Jüri Büyük Ödülü'ne layık görüldü.",
+        "tarih": "2026-02-21 21:50:17",
+        "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/864d/live/55a69c30-0f62-11f1-8c6e-2da2e1a0e6bb.png"
+    },
+    {
         "baslik": "Savaşta erkeklerini kaybeden Rus köyü: 'Neredeyse her ailede savaşa gitmiş birileri var'",
         "link": "https://www.bbc.com/turkce/articles/crrx7gyr92zo?at_medium=RSS&at_campaign=rss",
         "ozet": "Rusya'nın doğu ucundaki Sedanka kasabasındaki 18-55 yaşlarındaki erkeklerin neredeyse tamamı Ukrayna'ya savaşa gitti. Peki Rusya savaşta ne kadar kayıp verdi?",
-        "tarih": "2026-02-21 15:55:48",
+        "tarih": "2026-02-21 16:55:27",
         "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/818f/live/9aa4fae0-0cea-11f1-b7e1-afb6d0884c18.jpg"
     },
     {
@@ -21,13 +28,6 @@
         "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/5b70/live/854ce700-0db4-11f1-a954-b3152d2d59e8.jpg"
     },
     {
-        "baslik": "Cinsel istek neden azalıyor, testosteron gerçekten çözüm mü?",
-        "link": "https://www.bbc.com/turkce/articles/c4g79lzq41yo?at_medium=RSS&at_campaign=rss",
-        "ozet": "Testosteronun artırılması cinsel isteği gerçekten artırabilir mi, yoksa bu ilginin büyük bölümü abartı, kâr hırsı ve plasebodan mı ibaret?",
-        "tarih": "2026-02-21 09:37:20",
-        "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/0419/live/0ab28b10-08fc-11f1-b5e2-dd58fc65f0f6.jpg"
-    },
-    {
         "baslik": "'Eskiden nefret ettiğim görünüşümü kabullenmeyi nasıl öğrendim?'",
         "link": "https://www.bbc.com/turkce/articles/c178rg7p9lro?at_medium=RSS&at_campaign=rss",
         "ozet": "Tilly ve Charlotte, beden dismorfik bozukluğuyla ilgili deneyimlerini ve bu durumdan nasıl kurtulduklarına dair deneyimlerini paylaşıyorlar.",
@@ -35,11 +35,25 @@
         "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/7191/live/da727020-075a-11f1-925d-919faf925e25.jpg"
     },
     {
-        "baslik": "Trump, Yüksek Mahkeme'nin iptal kararı ardından yeni  bir %10 küresel gümrük vergisi açıkladı",
+        "baslik": "Trump küresel gümrük vergilerini %15'e çıkardığını açıkladı",
         "link": "https://www.bbc.com/turkce/articles/c626g605km3o?at_medium=RSS&at_campaign=rss",
-        "ozet": "ABD Yüksek Mahkemesi, Başkan Donald Trump'ın geçen yıl yürürlüğe koyduğu geniş kapsamlı küresel gümrük vergilerinin hukuka aykırı olduğuna hükmetti. Trump, mahkeme kararından \"büyük bir hayal kırıklığı\" duyduğunu söyledi ve tüm ülkelere %10'luk yeni bir gümrük vergisi uygulayacak bir kararname imzalayacağını açıkladı.",
-        "tarih": "2026-02-20 18:54:54",
-        "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/a06c/live/9a0bc930-0e8c-11f1-a4e4-ddad1524d202.jpg"
+        "ozet": "ABD Yüksek Mahkemesi'nin kapsamlı küresel gümrük vergilerini iptal etmesinden bir gün sonra, Başkan Trump, bu vergileri \"derhal geçerli olmak üzere\" %15'e çıkaracağını duyurdu.",
+        "tarih": "2026-02-21 17:16:49",
+        "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/8e8d/live/eaf6f0b0-0f48-11f1-9a2a-8fa7cf422a25.jpg"
+    },
+    {
+        "baslik": "Kanada'daki silahlı saldırıyla ilgili şüphelinin ChatGPT hesabı neden tartışılıyor?",
+        "link": "https://www.bbc.com/turkce/articles/c0j5w0p9ez1o?at_medium=RSS&at_campaign=rss",
+        "ozet": "Yetkililer, British Columbia eyaletinde düzenlenen saldırıda hayatını kaybedenlerin adlarını ve yaşlarını açıklamadı. Kanada Başbakanı Mark Carney, Almanya gezisini iptal etti.",
+        "tarih": "2026-02-21 18:00:27",
+        "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/57f8/live/0e027810-0f4c-11f1-b048-c9424b2cf5fd.jpg"
+    },
+    {
+        "baslik": "Cinsel istek neden azalıyor, testosteron gerçekten çözüm mü?",
+        "link": "https://www.bbc.com/turkce/articles/c4g79lzq41yo?at_medium=RSS&at_campaign=rss",
+        "ozet": "Testosteronun artırılması cinsel isteği gerçekten artırabilir mi, yoksa bu ilginin büyük bölümü abartı, kâr hırsı ve plasebodan mı ibaret?",
+        "tarih": "2026-02-21 09:37:20",
+        "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/0419/live/0ab28b10-08fc-11f1-b5e2-dd58fc65f0f6.jpg"
     },
     {
         "baslik": "NASA'nın 50 yıl sonraki ilk insanlı Ay seyahati ne zaman başlıyor?",
@@ -56,18 +70,18 @@
         "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/98a7/live/0e49b710-0cd7-11f1-b5e2-dd58fc65f0f6.jpg"
     },
     {
-        "baslik": "Türkiye, Somali'de askeri varlığını artırıyor, derinleşen ortaklık nasıl yorumlanıyor?",
-        "link": "https://www.bbc.com/turkce/articles/c0k15lz6yv3o?at_medium=RSS&at_campaign=rss",
-        "ozet": "Türkiye'nin en yeni sondaj gemisi Çağrı Bey, ilk uluslararası görevini icra etmek için Mersin'den Somali'ye doğru yola çıktı. Sondaj gemisinin yola çıkmasından önceki haftalarda Ankara, Somali'deki askeri varlığını güçlendirdi. Türkiye'nin Somali'ye F-16 savaş uçakları, muharebe tankları ve askeri teçhizat sevkiyatı yaptığı iddia edildi.",
-        "tarih": "2026-02-20 07:22:29",
-        "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/d31b/live/d7bba670-0e5e-11f1-b048-c9424b2cf5fd.jpg"
-    },
-    {
         "baslik": "Gazeteci Alican Uludağ tutuklandı",
         "link": "https://www.bbc.com/turkce/articles/cjd9x7k4xymo?at_medium=RSS&at_campaign=rss",
         "ozet": "İstanbul Cumhuriyet Başsavcılığının 'Cumhurbaşkanına alenen hakaret' ve 'yanıltıcı bilgiyi alenen yayma' suçlarından hakkında başlattığı soruşturma nedeniyle gözaltına alınan gazeteci Alican Uludağ tutuklandı",
         "tarih": "2026-02-20 19:57:10",
         "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/788b/live/6c553c40-0dd0-11f1-9b78-5f797c79c5ad.jpg"
+    },
+    {
+        "baslik": "Türkiye, Somali'de askeri varlığını artırıyor, derinleşen ortaklık nasıl yorumlanıyor?",
+        "link": "https://www.bbc.com/turkce/articles/c0k15lz6yv3o?at_medium=RSS&at_campaign=rss",
+        "ozet": "Türkiye'nin en yeni sondaj gemisi Çağrı Bey, ilk uluslararası görevini icra etmek için Mersin'den Somali'ye doğru yola çıktı. Sondaj gemisinin yola çıkmasından önceki haftalarda Ankara, Somali'deki askeri varlığını güçlendirdi. Türkiye'nin Somali'ye F-16 savaş uçakları, muharebe tankları ve askeri teçhizat sevkiyatı yaptığı iddia edildi.",
+        "tarih": "2026-02-20 07:22:29",
+        "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/d31b/live/d7bba670-0e5e-11f1-b048-c9424b2cf5fd.jpg"
     },
     {
         "baslik": "Köprü ve otoyolların özelleştirilmesi iddiaları hakkında neler biliniyor?",
@@ -96,13 +110,6 @@
         "ozet": "Araştırmacılar, tek bir aşının tüm öksürük, soğuk algınlığı ve grip türlerine karşı koruma sağlayabileceğini söylüyor.",
         "tarih": "2026-02-20 11:27:49",
         "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/c1b0/live/fbb83c00-0e4a-11f1-b5e2-dd58fc65f0f6.jpg"
-    },
-    {
-        "baslik": "Yemek tarifleriyle gıda enflasyonu: Fiyatlar 7 yılda nasıl arttı?",
-        "link": "https://www.bbc.com/turkce/articles/cd70dq9jx44o?at_medium=RSS&at_campaign=rss",
-        "ozet": "Türkiye'de gıda fiyatları son on yılda hızla arttı. Peki bu artış mutfağa nasıl yansıdı? Yemek tarifleriyle inceledik.",
-        "tarih": "2026-02-20 03:27:00",
-        "resim": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/1a04/live/f4e5c3a0-0b4a-11f1-b5e2-dd58fc65f0f6.png"
     },
     {
         "baslik": "Bakan Gürlek'ten mecliste kavga açıklaması: 'Keşke yaşanmasaydı'",
